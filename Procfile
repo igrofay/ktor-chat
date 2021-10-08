@@ -1,0 +1,1 @@
+web: ./build/install/com.program.chat-ktor/bin/com.program.chat-ktor
